@@ -1,3 +1,3 @@
-module github.com/go-piv/piv-go
+module github.com/jcfm/piv-go
 
 go 1.18
